@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.idea/
+delay-queue-server
+_build/
+.DS_Store
+lint.log
+*.swp
+*.swo
+running.pid
